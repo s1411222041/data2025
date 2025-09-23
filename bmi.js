@@ -1,11 +1,10 @@
 const readline = require('readline-sync');
 
 
-var weight=readline.question("YOUR WEIGHT(KG):");
-var height=readline.question("YOUR HEIGHT(CM):");
+var weight=readline.questionFloat("enter your weight in kg:");
+var height=readline.
+questionInt("enter your height in cm:");
 var bmi=weight/((height/100)**2)
 
 
-
-console.log("hellow your bmi is:" + bmi);j3
-
+console.log("hellow your bmi is:" + bmi);
