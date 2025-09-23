@@ -1,0 +1,22 @@
+{
+  "name": "data2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bmi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s1411222041/data2025.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s1411222041/data2025/issues"
+  },
+  "homepage": "https://github.com/s1411222041/data2025#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

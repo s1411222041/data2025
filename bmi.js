@@ -1,3 +1,4 @@
+const readline = require('readline-sync');
 var weight=50;
 var height=170;
 var bmi=weight/((height/100)**2)
